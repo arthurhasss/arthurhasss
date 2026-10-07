@@ -169,7 +169,7 @@ Je développe des applications web complètes, de la base de données jusqu'à l
 ## Statistiques GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurhasss&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=7400ff&icon_color=7400ff&text_color=c9d1d9&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurhasss&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=7400ff&icon_color=7400ff&text_color=c9d1d9&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhasss&layout=compact&langs_count=8&bg_color=0d1117&title_color=7400ff&icon_color=7400ff&text_color=c9d1d9&hide_border=true" />
 </p>
 
