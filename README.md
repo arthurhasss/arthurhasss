@@ -1,7 +1,7 @@
 <h1 align="center">Arthur Hass</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=1200&color=7400FF&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+full-stack;BUT+Informatique+%C2%B7+3e+ann%C3%A9e;Fondateur+de+StockFeel" alt="Développeur full-stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=1200&color=7400FF&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+full-stack;CESI+%C2%B7+3e+ann%C3%A9e+en+alternance;Fondateur+de+StockFeel" alt="Développeur full-stack" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Je développe des applications web complètes, de la base de données jusqu'à l
   </tr>
   <tr>
     <td><b>Formation</b></td>
-    <td>BUT Informatique, 3<sup>e</sup> année, parcours développement d'applications</td>
+    <td>CESI, 3<sup>e</sup> année en alternance, après un BUT Informatique</td>
   </tr>
   <tr>
     <td><b>Langages</b></td>
@@ -39,16 +39,20 @@ Je développe des applications web complètes, de la base de données jusqu'à l
 
 <table>
   <tr>
-    <td width="150" valign="top"><b>Depuis 2023</b></td>
-    <td><b>BUT Informatique</b> · spécialisation développement d'applications</td>
+    <td width="150" valign="top"><b>Depuis 2026</b></td>
+    <td><b>CESI</b> · 3<sup>e</sup> année en alternance</td>
   </tr>
   <tr>
-    <td valign="top"><b>Depuis sept. 2025</b></td>
+    <td valign="top"><b>2025 - 2026</b></td>
     <td><b>Wavy Météo</b> · projet académique en équipe de 6, méthode Agile<br/>Application web multi-plateforme de météo pour les sports nautiques : intégration d'API météo, back-end PHP/Symfony et MySQL, authentification avancée, options d'accessibilité.</td>
   </tr>
   <tr>
     <td valign="top"><b>Janv. - avril 2025</b></td>
     <td><b>Stage développeur · FRCI</b> (ESN, île Maurice)<br/>Interface SharePoint qui automatise la comparaison de fichiers Excel via une API d'IA Azure, pour un courtier en assurance. Ajout d'une interface d'administration à une application existante.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>2023 - 2026</b></td>
+    <td><b>BUT Informatique</b> · spécialisation développement d'applications</td>
   </tr>
   <tr>
     <td valign="top"><b>Depuis 2022</b></td>
