@@ -90,15 +90,6 @@ const arthur = {
   <img src="https://streak-stats.demolab.com?user=arthurhasss&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurhasss&theme=tokyo-night&hide_border=true&area=true&color=00ffa6&line=0b84f3&point=ffffff" />
-</p>
-
-<!-- Trophées -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthurhasss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</p>
-
 ## 🤝 Me contacter
 
 Ouvert aux **stages, alternances et projets freelance** en développement web.
