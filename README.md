@@ -42,20 +42,16 @@ Je développe des applications web complètes, de la base de données jusqu'à l
     <td width="150" valign="top"><b>Avril - août 2026</b><br/><br/><img src="assets/divprotocol.png" width="48" alt="DIV Protocol" /></td>
     <td valign="top">
       <h3>Stage développeur full-stack · DIV Protocol</h3>
-      <p>DIV Protocol édite une suite collaborative <b>chiffrée et souveraine</b> pour les professions soumises au secret professionnel, principalement les cabinets d'avocats. J'ai travaillé sur plusieurs outils de la suite, du backend au frontend.</p>
+      <p><i>Startup incubée à Télécom Paris · cloud souverain chiffré</i></p>
       <ul>
-        <li><b>DIV Drive</b>, en production chez les clients : refonte du modèle de rôles et de permissions (rôle cabinet et rôle projet séparés, équipes, traçabilité des accès administrateurs), recherche filtrée, étiquettes, partage externe, notifications en temps réel, visionneuse cloisonnée, thème sombre, version mobile.</li>
-        <li><b>DIV Calendar</b> : parti d'une maquette, j'ai mesuré l'écart avec les calendriers du marché, construit le backlog puis développé l'essentiel de l'application, du calcul des occurrences récurrentes au contrôle des modifications simultanées.</li>
-        <li><b>DIV Mail et DIV Send</b> : interface du produit minimum viable, base de DIV Send et tarification par lien. Aussi le site vitrine (performances, référencement), le client de bureau et un audit de DIV Visio.</li>
-        <li><b>Méthode</b> : sprints, intégration continue, environnements de prévisualisation, relecture de code automatisée, et développement assisté par IA (Claude Code, sous-agents, connecteurs Figma et ClickUp).</li>
+        <li>Développement full-stack d'une plateforme de stockage sécurisé avec chiffrement de bout en bout.</li>
+        <li>Développement du site vitrine : intégration responsive et multilingue d'après les maquettes Figma, animations, optimisation des médias et SEO.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-5100ff?logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-5100ff?logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js%2015-5100ff?logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-5100ff?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/NestJS-5100ff?logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-5100ff?logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-5100ff?logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-5100ff?logo=figma&logoColor=white" />
       </p>
     </td>
   </tr>
