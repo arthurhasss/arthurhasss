@@ -14,7 +14,7 @@
 
 ## À propos
 
-Je développe des applications web complètes, de la base de données jusqu'à l'interface. J'aime les projets concrets qui servent à de vrais utilisateurs, et j'automatise tout ce que je fais plus de deux fois.
+Je développe des applications web complètes, de la base de données jusqu'à l'interface. J'aime les projets concrets qui servent à de vrais utilisateurs.
 
 <table>
   <tr>
