@@ -27,7 +27,7 @@ Je développe des applications web complètes, de la base de données jusqu'à l
   </tr>
   <tr>
     <td><b>Langages</b></td>
-    <td>TypeScript · JavaScript · PHP · Java · C# · Python · Scala · C · SQL · Bash</td>
+    <td>TypeScript · JavaScript · PHP · Java · C# · Python · C · SQL · Bash</td>
   </tr>
   <tr>
     <td><b>Langues</b></td>
@@ -125,26 +125,6 @@ Je développe des applications web complètes, de la base de données jusqu'à l
     <td valign="top"><b>MyAvatar</b><br/><sub>2025 · équipe de 4</sub></td>
     <td valign="top">Service d'avatars à la manière de Gravatar : une photo associée au hash SHA-256 d'un email, images servies par contrôleur hors du dossier public, vérifications AJAX en temps réel, administration et commandes console.<br/><img src="https://img.shields.io/badge/Symfony-30363d?logo=symfony&logoColor=white" /> <img src="https://img.shields.io/badge/Twig-30363d" /> <img src="https://img.shields.io/badge/JavaScript-30363d?logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-30363d?logo=mysql&logoColor=white" /></td>
   </tr>
-  <tr>
-    <td valign="top"><b>Poursuites d'études</b><br/><sub>2024 · équipe de 5</sub></td>
-    <td valign="top">Plateforme de gestion académique : étudiants, résultats, vœux de poursuite d'études, rôles et permissions, import et export CSV et Excel, tableaux de bord.<br/><img src="https://img.shields.io/badge/PHP%20MVC-30363d?logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-30363d?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Twig-30363d" /> <img src="https://img.shields.io/badge/GitLab-30363d?logo=gitlab&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>HandiFun</b><br/><sub>2024 · équipe de 3</sub></td>
-    <td valign="top">Maquette UX/UI d'un site qui aide les personnes en situation de handicap à commencer ou reprendre un sport : personas, wireframes, maquette haute fidélité et prototype interactif.<br/><img src="https://img.shields.io/badge/Figma-30363d?logo=figma&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Projet Poker</b><br/><sub>Programmation fonctionnelle</sub></td>
-    <td valign="top">Représentation des cartes et évaluation automatique de toutes les combinaisons de mains de poker.<br/><img src="https://img.shields.io/badge/Scala-30363d?logo=scala&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Tetris</b></td>
-    <td valign="top">Tetris jouable dans le navigateur, sans framework ni dépendance.<br/><img src="https://img.shields.io/badge/JavaScript-30363d?logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-30363d?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-30363d?logo=css&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>SAE E3Cète</b><br/><sub>Algorithmique</sub></td>
-    <td valign="top">Jeu de cartes en Java, avec comparaison de plusieurs algorithmes de tri selon leur temps d'exécution.<br/><img src="https://img.shields.io/badge/Java-30363d?logo=openjdk&logoColor=white" /></td>
-  </tr>
 </table>
 
 ## Parcours
@@ -168,7 +148,7 @@ Je développe des applications web complètes, de la base de données jusqu'à l
 
 <p align="center"><b>Langages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,python,scala,c,bash,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,python,c,bash,html,css&theme=dark" />
 </p>
 
 <p align="center"><b>Front-end</b></p>
