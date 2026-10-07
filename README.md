@@ -27,7 +27,7 @@ Je développe des applications web complètes, de la base de données jusqu'à l
   </tr>
   <tr>
     <td><b>Langages</b></td>
-    <td>TypeScript · JavaScript · PHP · Java · C# · Python · C · SQL · Bash</td>
+    <td>TypeScript · JavaScript · PHP · Java · C# · Python · Scala · C · SQL · Bash</td>
   </tr>
   <tr>
     <td><b>Langues</b></td>
@@ -39,18 +39,15 @@ Je développe des applications web complètes, de la base de données jusqu'à l
 
 <table>
   <tr>
-    <td width="90" valign="top" align="center"><img src="assets/divprotocol.png" width="64" alt="DIV Protocol" /></td>
+    <td width="150" valign="top"><b>Avril - août 2026</b><br/><br/><img src="assets/divprotocol.png" width="48" alt="DIV Protocol" /></td>
     <td valign="top">
       <h3>Stage développeur full-stack · DIV Protocol</h3>
-      <p><i>Stage de fin de BUT · 2026</i></p>
-      <p>DIV Protocol édite une suite collaborative <b>souveraine et chiffrée</b> (Drive, Calendar, Mail, Send, Visio), hébergée en France. J'ai travaillé sur plusieurs produits de la suite, du backend au frontend.</p>
+      <p>DIV Protocol édite une suite collaborative <b>chiffrée et souveraine</b> pour les professions soumises au secret professionnel, principalement les cabinets d'avocats. J'ai travaillé sur plusieurs outils de la suite, du backend au frontend.</p>
       <ul>
-        <li><b>DIV Drive</b>, en production chez les clients : rôles cabinet et projet, équipes, recherche filtrée, étiquettes, temps réel, partage externe, visionneuse cloisonnée, comparaison de deux documents, thème sombre, application installable.</li>
-        <li><b>DIV Calendar</b> : livraison du module en première version (réglages, droits des invités, rappels, recherche), avec un test ajouté pour chaque défaut corrigé.</li>
-        <li><b>DIV Mail et DIV Send</b> : interface du produit minimum viable, base de DIV Send et tarification par lien.</li>
-        <li><b>Site vitrine</b> (pages publiques, performances, référencement), client de bureau et audit de DIV Visio.</li>
-        <li><b>Sécurité</b> : correction d'une faille où la route d'aperçu permettait de télécharger un fichier sans en avoir le droit.</li>
-        <li><b>Méthode</b> : sprints, intégration continue, environnements de prévisualisation, relecture automatisée, et développement assisté par IA (Claude Code, sous-agents, connecteurs Figma et ClickUp).</li>
+        <li><b>DIV Drive</b>, en production chez les clients : refonte du modèle de rôles et de permissions (rôle cabinet et rôle projet séparés, équipes, traçabilité des accès administrateurs), recherche filtrée, étiquettes, partage externe, notifications en temps réel, visionneuse cloisonnée, thème sombre, version mobile.</li>
+        <li><b>DIV Calendar</b> : parti d'une maquette, j'ai mesuré l'écart avec les calendriers du marché, construit le backlog puis développé l'essentiel de l'application, du calcul des occurrences récurrentes au contrôle des modifications simultanées.</li>
+        <li><b>DIV Mail et DIV Send</b> : interface du produit minimum viable, base de DIV Send et tarification par lien. Aussi le site vitrine (performances, référencement), le client de bureau et un audit de DIV Visio.</li>
+        <li><b>Méthode</b> : sprints, intégration continue, environnements de prévisualisation, relecture de code automatisée, et développement assisté par IA (Claude Code, sous-agents, connecteurs Figma et ClickUp).</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js-5100ff?logo=nextdotjs&logoColor=white" />
@@ -62,34 +59,31 @@ Je développe des applications web complètes, de la base de données jusqu'à l
       </p>
     </td>
   </tr>
-</table>
-
-## Parcours
-
-<table>
-  <tr>
-    <td width="150" valign="top"><b>Depuis 2026</b></td>
-    <td><b>CESI</b> · 3<sup>e</sup> année en alternance</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>2026</b></td>
-    <td><b>Stage développeur full-stack · DIV Protocol</b><br/>Suite collaborative souveraine et chiffrée : DIV Drive, DIV Calendar, DIV Mail, DIV Send.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>2025 - 2026</b></td>
-    <td><b>Wavy Météo</b> · projet académique en équipe de 6, méthode Agile<br/>Application web multi-plateforme de météo pour les sports nautiques : intégration d'API météo, back-end PHP/Symfony et MySQL, authentification avancée, options d'accessibilité.</td>
-  </tr>
   <tr>
     <td valign="top"><b>Janv. - avril 2025</b></td>
-    <td><b>Stage développeur · FRCI</b> (ESN, île Maurice)<br/>Interface SharePoint qui automatise la comparaison de fichiers Excel via une API d'IA Azure, pour un courtier en assurance. Ajout d'une interface d'administration à une application existante.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>2023 - 2026</b></td>
-    <td><b>BUT Informatique</b> · spécialisation développement d'applications</td>
+    <td valign="top">
+      <h3>Stage développeur · FRCI</h3>
+      <p><i>ESN d'environ 100 personnes, île Maurice</i></p>
+      <ul>
+        <li>Interface SharePoint qui automatise la comparaison de deux fichiers Excel via une API d'intelligence artificielle Azure, pour une entreprise de courtage en assurance.</li>
+        <li>Intégration d'une interface d'administration dans une application existante, pour gérer ses objets simplement.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/SharePoint-0078d4?logo=microsoftsharepoint&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure%20AI-0078d4?logo=microsoftazure&logoColor=white" />
+      </p>
+    </td>
   </tr>
   <tr>
     <td valign="top"><b>Depuis 2022</b></td>
-    <td><b>Auto-entrepreneur</b> · achat-revente de produits neufs<br/>Gestion complète de l'activité : sourcing, négociation, mise en ligne, expédition, veille des prix. C'est de là qu'est né StockFeel.</td>
+    <td valign="top">
+      <h3>Auto-entrepreneur · achat-revente</h3>
+      <ul>
+        <li>Gestion complète de l'activité : achat, négociation, mise en ligne des produits et expédition des commandes.</li>
+        <li>Sélection des fournisseurs et des plateformes de vente, analyse du marché, ajustement des prix et veille concurrentielle.</li>
+        <li>C'est de ce besoin qu'est né <a href="https://www.stockfeel.fr">StockFeel</a>.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -100,20 +94,20 @@ Je développe des applications web complètes, de la base de données jusqu'à l
     <td width="50%" valign="top">
       <p><a href="https://www.stockfeel.fr"><img src="assets/stockfeel.svg" height="44" alt="StockFeel" /></a></p>
       <h3><a href="https://www.stockfeel.fr">StockFeel</a></h3>
-      <p>App de gestion d'inventaire pour revendeurs (sneakers, cartes Pokémon, vinyles, vêtements...). Suivi du stock et des ventes, intégrations <b>eBay</b> et <b>StockX</b>, détection automatique des ventes par email, notifications push, statistiques. <b>En production</b>.</p>
+      <p>App de gestion d'inventaire pour revendeurs (sneakers, cartes Pokémon, vinyles, vêtements...). Suivi du stock et des ventes, intégrations <b>eBay</b> et <b>StockX</b>, détection automatique des ventes par email, notifications push, statistiques. <b>En production</b>, avec son site vitrine et ses vidéos de présentation générées en code.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-7400ff?logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-7400ff?logo=prisma&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-7400ff?logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/PWA-7400ff?logo=pwa&logoColor=white" />
-        <img src="https://img.shields.io/badge/2FA-TOTP-7400ff" />
+        <img src="https://img.shields.io/badge/Remotion-7400ff?logo=remotion&logoColor=white" />
       </p>
       <a href="https://app.stockfeel.fr">app.stockfeel.fr</a>
     </td>
     <td width="50%" valign="top">
       <p><img src="assets/industeam.png" height="44" alt="INDUSTEAM" /></p>
       <h3>INDUSTEAM</h3>
-      <p>Application interne : gestion des salariés, rôles, accès sécurisés et audits QSE. Architecture en couches (route, contrôleur, service, repository), migrations versionnées.</p>
+      <p>Application interne : gestion des salariés, rôles, accès sécurisés et audits QSE. Architecture en couches (route, contrôleur, service, repository), migrations versionnées, tests d'intégration.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP%208.3-005c9f?logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-005c9f?logo=postgresql&logoColor=white" />
@@ -124,11 +118,61 @@ Je développe des applications web complètes, de la base de données jusqu'à l
   </tr>
 </table>
 
+### Projets du BUT
+
+<table>
+  <tr>
+    <td width="190" valign="top"><b>Wavy Météo</b><br/><sub>2025 - 2026 · équipe de 6</sub></td>
+    <td valign="top">Application web de météo marine pour les sports nautiques : conditions en temps réel partout dans le monde, carte interactive, plusieurs API météo avec mise en cache, authentification et rôles, accessibilité WCAG, méthode Agile.<br/><img src="https://img.shields.io/badge/Symfony-30363d?logo=symfony&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-30363d?logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-30363d?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Doctrine-30363d" /> <img src="https://img.shields.io/badge/Docker-30363d?logo=docker&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>MyAvatar</b><br/><sub>2025 · équipe de 4</sub></td>
+    <td valign="top">Service d'avatars à la manière de Gravatar : une photo associée au hash SHA-256 d'un email, images servies par contrôleur hors du dossier public, vérifications AJAX en temps réel, administration et commandes console.<br/><img src="https://img.shields.io/badge/Symfony-30363d?logo=symfony&logoColor=white" /> <img src="https://img.shields.io/badge/Twig-30363d" /> <img src="https://img.shields.io/badge/JavaScript-30363d?logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-30363d?logo=mysql&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Poursuites d'études</b><br/><sub>2024 · équipe de 5</sub></td>
+    <td valign="top">Plateforme de gestion académique : étudiants, résultats, vœux de poursuite d'études, rôles et permissions, import et export CSV et Excel, tableaux de bord.<br/><img src="https://img.shields.io/badge/PHP%20MVC-30363d?logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-30363d?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Twig-30363d" /> <img src="https://img.shields.io/badge/GitLab-30363d?logo=gitlab&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>HandiFun</b><br/><sub>2024 · équipe de 3</sub></td>
+    <td valign="top">Maquette UX/UI d'un site qui aide les personnes en situation de handicap à commencer ou reprendre un sport : personas, wireframes, maquette haute fidélité et prototype interactif.<br/><img src="https://img.shields.io/badge/Figma-30363d?logo=figma&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Projet Poker</b><br/><sub>Programmation fonctionnelle</sub></td>
+    <td valign="top">Représentation des cartes et évaluation automatique de toutes les combinaisons de mains de poker.<br/><img src="https://img.shields.io/badge/Scala-30363d?logo=scala&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Tetris</b></td>
+    <td valign="top">Tetris jouable dans le navigateur, sans framework ni dépendance.<br/><img src="https://img.shields.io/badge/JavaScript-30363d?logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-30363d?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-30363d?logo=css&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>SAE E3Cète</b><br/><sub>Algorithmique</sub></td>
+    <td valign="top">Jeu de cartes en Java, avec comparaison de plusieurs algorithmes de tri selon leur temps d'exécution.<br/><img src="https://img.shields.io/badge/Java-30363d?logo=openjdk&logoColor=white" /></td>
+  </tr>
+</table>
+
+## Parcours
+
+<table>
+  <tr>
+    <td width="150" valign="top"><b>Depuis 2026</b></td>
+    <td><b>CESI</b> · 3<sup>e</sup> année en alternance</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>2023 - 2026</b></td>
+    <td><b>BUT Informatique</b> · spécialisation développement d'applications</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>2022</b></td>
+    <td><b>Baccalauréat</b> · spécialités NSI et Mathématiques, mention assez bien<br/><sub>Lycée Jean Moulin, Pézenas</sub></td>
+  </tr>
+</table>
+
 ## Stack technique
 
 <p align="center"><b>Langages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,python,c,bash,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,python,scala,c,bash,html,css&theme=dark" />
 </p>
 
 <p align="center"><b>Front-end</b></p>
