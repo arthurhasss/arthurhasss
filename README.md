@@ -35,12 +35,45 @@ Je développe des applications web complètes, de la base de données jusqu'à l
   </tr>
 </table>
 
+## Expérience
+
+<table>
+  <tr>
+    <td width="90" valign="top" align="center"><img src="assets/divprotocol.png" width="64" alt="DIV Protocol" /></td>
+    <td valign="top">
+      <h3>Stage développeur full-stack · DIV Protocol</h3>
+      <p><i>Stage de fin de BUT · 2026</i></p>
+      <p>DIV Protocol édite une suite collaborative <b>souveraine et chiffrée</b> (Drive, Calendar, Mail, Send, Visio), hébergée en France. J'ai travaillé sur plusieurs produits de la suite, du backend au frontend.</p>
+      <ul>
+        <li><b>DIV Drive</b>, en production chez les clients : rôles cabinet et projet, équipes, recherche filtrée, étiquettes, temps réel, partage externe, visionneuse cloisonnée, comparaison de deux documents, thème sombre, application installable.</li>
+        <li><b>DIV Calendar</b> : livraison du module en première version (réglages, droits des invités, rappels, recherche), avec un test ajouté pour chaque défaut corrigé.</li>
+        <li><b>DIV Mail et DIV Send</b> : interface du produit minimum viable, base de DIV Send et tarification par lien.</li>
+        <li><b>Site vitrine</b> (pages publiques, performances, référencement), client de bureau et audit de DIV Visio.</li>
+        <li><b>Sécurité</b> : correction d'une faille où la route d'aperçu permettait de télécharger un fichier sans en avoir le droit.</li>
+        <li><b>Méthode</b> : sprints, intégration continue, environnements de prévisualisation, relecture automatisée, et développement assisté par IA (Claude Code, sous-agents, connecteurs Figma et ClickUp).</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-5100ff?logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-5100ff?logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-5100ff?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-5100ff?logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-5100ff?logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-5100ff?logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Parcours
 
 <table>
   <tr>
     <td width="150" valign="top"><b>Depuis 2026</b></td>
     <td><b>CESI</b> · 3<sup>e</sup> année en alternance</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>2026</b></td>
+    <td><b>Stage développeur full-stack · DIV Protocol</b><br/>Suite collaborative souveraine et chiffrée : DIV Drive, DIV Calendar, DIV Mail, DIV Send.</td>
   </tr>
   <tr>
     <td valign="top"><b>2025 - 2026</b></td>
@@ -105,7 +138,7 @@ Je développe des applications web complètes, de la base de données jusqu'à l
 
 <p align="center"><b>Back-end &amp; données</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,symfony,prisma,postgres,mysql,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,symfony,prisma,postgres,mysql,supabase&theme=dark" />
 </p>
 
 <p align="center"><b>Infra &amp; outils</b></p>
